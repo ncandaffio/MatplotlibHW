@@ -1,0 +1,4 @@
+Pyber Obersvations
+  Although they have the lowest average fares, the sheer volume of rides in urban areas makes them the largest driver of our fare revenue (68.4%)
+  Rural areas are the smallest section of our business and the rides and fares relationship is the least strong.
+  Although only 16.5% of the drivers service suburban areas, it makes up over 30% of our revenues. With this evidence, we should invest in developing the number of drivers in suburban areas
